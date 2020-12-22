@@ -11,7 +11,7 @@ body {
 </style>	
 <p align=center><font size=7 color=blue><b><i>Нам уже год!!!</i></b><br>
 <font size=5 color=blue>(28.12.19-∞)
-<br><br><br><br><br>
+<br><br>
 <style>
    li {
     list-style-type: none;
