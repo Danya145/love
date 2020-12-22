@@ -23,6 +23,6 @@ body {
   <img src="НЕ ВХОДИТЬ/glavnaya/gl1.jpg" alt="Ты самая красивая)))"width=700px height=400px>                     <img src="НЕ ВХОДИТЬ/glavnaya/stix.jpg" width=500 height=400> <br><br><br><br><br>
   <font size=5><ul class=hr> <li> <a href="НЕ ВХОДИТЬ/ist/Istoria.html" title="Тут самые важные моменты наших отношений">Наша история
 <!--  <font size=5><ul class=hr><li> <a href="НЕ ВХОДИТЬ/Milo/Milo.html" title="Тут немного милоты">Милота ʕ ᵔᴥᵔ ʔ</th>-->
-  <font size=5><ul class=hr><li> <a href="НЕ ВХОДИТЬ/Prazdniki/Prazdnik.html" title="Наши поздравления друг другу)))">Праздники🎁
+  <font size=5><ul class=hr> <a href="НЕ ВХОДИТЬ/Prazdniki/Prazdnik.html" title="Наши поздравления друг другу)))">Праздники🎁
   </body>
 </html>
